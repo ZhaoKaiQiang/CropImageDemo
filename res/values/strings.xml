@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CropImage</string>
+    <string name="action_settings">Settings</string>
+    <string name="pic_btn">获取图片</string>
+    <string name="dialog_title">设置头像</string>
+    <string name="dialog_p_btn">相册</string>
+    <string name="dialog_n_btn">拍照</string>
+    
+</resources>

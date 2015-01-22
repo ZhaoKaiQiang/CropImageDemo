@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ContentDescription" severity="ignore" />
+    <issue id="ManifestOrder">
+        <ignore path="AndroidManifest.xml" />
+    </issue>
+    <issue id="OldTargetApi">
+        <ignore path="AndroidManifest.xml" />
+    </issue>
+    <issue id="UsesMinSdkAttributes">
+        <ignore path="AndroidManifest.xml" />
+    </issue>
+</lint>
